@@ -22,5 +22,7 @@ A custom Flappy Bird–style game built with HTML5 Canvas, CSS, and JavaScript, 
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flappy-night.git
-   cd flappy-night 
+   git clone https://github.com/AadiKadam/Flappy-Nights.git
+   cd Flappy-Nights
+2. Open the "index.html" file in your web browser
+3. Have fun! 
